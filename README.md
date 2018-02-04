@@ -1,3 +1,4 @@
 # Project
 About Me
+
 My name is Nicholas and I am a grade 12 computer science student at George Vanier Secondary School. I am also a future computer science student in university. My passion is coding as it gives me the opportunity to problem solve on my own using techniques within the language in use. The languages I can currently code in are Pascal, Python, Turing and a grasp of C#. Every summer, I learn a new language to code with. For example last summer, I started with C# in a Unity environment. I may not be proficient in C# as I am still learning the aspects within that coding environment. In university I will focus on computer science with a minor in business. After university, I would like to get employed in the online industries such as video game production or business software development. In my spare time I like online gaming as well as challenging my mind with math problems. Overall, I am well motivated to learn in the software field.
